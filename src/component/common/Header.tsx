@@ -23,5 +23,8 @@ const StyledHeader = styled.div<{ $isRegist: boolean }>`
   h1 {
     padding: 20px 0;
     margin: 0;
+    font-size: 50px;
+    font-weight: 900;
+
   }
 `;
